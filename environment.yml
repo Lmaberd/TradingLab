@@ -1,0 +1,11 @@
+name: TradingLab-venv
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+    - python-dotenv
+    - pandas
+    - numpy
