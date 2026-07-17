@@ -11,4 +11,5 @@ dependencies:
     - numpy
     - httpx
     - ibapi
-    - threading
+    - python-dateutil
+
