@@ -30,4 +30,10 @@ Additional Filters to develop:
 2. Market Regime - HMM/GMM/CJM
     a. Feature Engineering using PCA and Random Matrix Theory (RMT)
     b. Features would include (VRP, IV, 50SMA, 200SMA, Interest Rates, 2-10 T-bill yields, CPI, PPI, NFP, unemployment, DXY, XAUUSD)
-3. Factor decomposition of Hedge Fund's portfolio to find their factor tilts/
+3. Factor decomposition of Hedge Fund's portfolio to find their factor tilts
+
+
+To start env
+Go to Terminal and type:
+1) conda env update -f environment.yml --prune
+2) conda activate TradingLab-venv
